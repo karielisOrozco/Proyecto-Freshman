@@ -1,0 +1,59 @@
+
+/*estilos de navbar*/
+.navbar{
+    background-color:rgb(12, 161, 167);
+    color:azure
+}
+
+.logonavbar{
+    margin-right: 20px;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    color: white !important;
+}
+
+h2{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 50px;
+    text-align: center;
+    color:#21beb1
+}
+
+h2 span{
+    font-weight: bolder
+}
+
+.card{
+    width: 18rem;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px 0 #0007
+}
+
+.card:hover{
+    box-shadow: 0 4px 8px 0 #21beb1
+}
+
+
+.rubik{
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    text-transform: capitalize;
+    color: rgb(153, 196, 204);
+}
+
+.Rubik-bold{
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
+  
+
+
+
